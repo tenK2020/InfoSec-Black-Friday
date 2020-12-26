@@ -55,7 +55,7 @@ https://securitytrails.com/
 
 Tenable\
 https://www.tenable.com/buy  
-50% off Nessus PRO with code: takehalf
+30% off Nessus PRO with code: Nessus30
 
 WPScan\
 https://wpscan.com/  
